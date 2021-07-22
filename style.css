@@ -1,0 +1,9 @@
+body{
+    background-image: url("one.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    background-color: white;
+    border: 5px ridge;
+}
